@@ -1,0 +1,2 @@
+# asteriskAll
+Personal Journal
